@@ -1,0 +1,51 @@
+﻿Index,User_ID,Content,IP
+1,毕导ETO,代码C，open3d版本0.17.0。最后画点云的代码按视频中写会报错。改成这样才可以： point_cloud = open3d.geometry.PointCloud() point_cloud.points = open3d.utility.Vector3dVector(points_T) open3d.visualization.draw_geometries(【point_cloud】),河南
+2,交通数据小旭学长,收藏了下辈子认真学,Unknown IP
+3,原子飛船,子豪兄太强了，这就是我要找的。我是名本科工科的跨专业考生，现在的专业是运动人体科学，这个方向是很棒很有前景的跨专业结合方向，也是我现在努力要做的。following 子豪兄[星星眼][星星眼][星星眼],Unknown IP
+4,亻子子,哦豁，再过五十年动捕服也退出舞台了…… 技术发展真的太快了,Unknown IP
+5,天羽丿光少,我直接做了一个绝地求生GPU画面采集自瞄,Unknown IP
+6,铁头KAKI,做个自瞄去[doge],Unknown IP
+7,炖烂的番茄,"说一下我对up主这个项目的理解，不知道对不对。UP主本质上是先将关键点提取出来然后将序列的变化情况放到一张坐标轴上然后数波峰。优点是简单快速且解决了时间维度的问题，缺点就是模型泛化性差（换个人估计就不work了），依赖参数。我提供几个baseline,可以考虑将提取的时域关键点特征做傅里叶变换或者用self-similarity matrix + transformer的方法",Unknown IP
+8,ddoolaa,当年课程设计就做了个姿态估计的运动识别，深蹲俯卧撑开合跳等等…当时还算是非常有新意的创新了，现在好像出现特别多了,Unknown IP
+9,svbiz,哈哈哈，子豪兄好可爱。这个可以应该到养老院，可能根据人体姿势判断老人是否摔倒在地之类的,Unknown IP
+10,粥团里的JO太郎,本地化运行已经成功，想做的同学可以找我来交流[doge][doge][doge],河南
+11,雷姆RIVIT,豪哥，下次可以不可以考虑复现一下Mediapipe Objectron中的算法以及标注自己3D数据集的方法。想制作自己的3D数据集~但好像没有太好的标注软件，自己做门槛又有些太高了。。。,Unknown IP
+12,空name,我不是这个专业的，我想问问大佬，像这样的图像识别有没有能分析出力的，比如运动时受到的足底压力,Unknown IP
+13,清溪河123,在本地windows上搞成了,Unknown IP
+14,轻声呼唤吾身之名,拿来给小白入门还是很不错的[热词系列_妙啊],Unknown IP
+15,雪刃击空明霜星,豪哥，这个一直解决不了,陕西
+16,22408小手子,我敲！宝藏up主！为了赶大创项目为openpose而苦恼，然而发现了宝藏视频！,Unknown IP
+17,nlnlznlznl,可以请教一下如果画面中人体占比比较小的情况下会怎么样嘛？如果人pose只占据大概目前的五分之一，coco format情况下检测效果如何？麻烦了,Unknown IP
+18,空name,我不是这方面相关专业的，我想问问，像这样的能识别人体所受到的力吗，比如运动时足底压力,Unknown IP
+19,GarbleGobble,子豪师兄，想请教一下，怎么把colab识别深蹲的代码运行在pycharm或者树莓派里呢，需要用到谷歌的东西吗？会不会因为墙而不能运行代码？,Unknown IP
+20,妮蔻酱嚼嚼,所以就是得先在juypter上用python在编写功能通过colab生成csv最后整合到Android上实现app的制作是吧,河南
+21,eiofsat,真不错，单帧50左右。fps=20，基本上是实时的了,Unknown IP
+22,氮醉______,可以进入你的jupyter账号获取一下你的这些代码吗？,Unknown IP
+23,二工大担当,一期openpose快要结项，二期准备转mediapipe，正好就刷到教程，研二狗不配休息,Unknown IP
+24,Ocarinalover,这个感觉可以开发成产品了，比手环统计更适合健身房,Unknown IP
+25,不要一觉,e题[doge_金箍],河南
+26,_搓麻将mj,感谢up救我🐶命,北京
+27,咸鱼糯叽叽,微信群二维码扫不进去加载不出来,山西
+28,栈溢出工程师,INFO: Created TensorFlow Lite XNNPACK delegate for CPU  这个问题这么解决呀,Unknown IP
+29,Vincent名人,用tensorrt加速2d pose模型，速度能达到500fps，这个不知道行不行,Unknown IP
+30,米莱西安-再战江湖,这个应该可以用来检查拳击动力链传导的效率,Unknown IP
+31,大大叔叔武汉,不错。。明天看。,Unknown IP
+32,穆大诗,可以做成苹果的app吗,广东
+33,QWitnessX,毕设就是做这个，现在卡在动作比对，要是早点看到您视频多好= =直接省了好多事,Unknown IP
+34,当四十四次日落后,up你好，我已经从微信公众号上买到源码了，因为公共答疑群进不去，所以想来这里问一下：请问这个模型移植到嵌入式板子上的过程复杂吗，大致是什么样子的呢[脸红]不知道这个工作量大不大,浙江
+35,梦哩不知身是客,INFO: Created TensorFlow Lite XNNPACK delegate for CPU. 请问报错这个是为什么,广东
+36,蓝天_simple,怎么没有第一个视频里那个透明3d坐标代码？,Unknown IP
+37,rnm2g1,子豪兄弟，请问，这个代码是不是只能识别一个人,Unknown IP
+38,皮卡阿啾格,up太牛了，想问问mediapipe 0.8.3在win上怎么用gpu跑呀,Unknown IP
+39,我是阿彤儿啊,colab怎么安装呀,Unknown IP
+40,WBHigher,# 提取特征 bootstrap_helper.bootstrap(per_pose_class_limit=None) 出现了报错：TypeError: __init__() got an unexpected keyword argument &#39;upper_body_only&#39;  由于版本限制安装的mediapipe==0.9.1.0，求解决,陕西
+41,universalwow,你好，这模型只支持单人吗,Unknown IP
+42,梯度下降法_,mediapipe的3维姿态估计完全不准确,Unknown IP
+43,么哒啦啦,你好，请问跳绳可以用这个完成计数的功能吗,Unknown IP
+44,Asuka_Jp,求助 生成模型的时候报错&lt;urlopen error 【Errno 11004】 getaddrinfo failed&gt;,Unknown IP
+45,eyeeyes,可以出一个用YOLO做的人体姿势关键点检测吗[捂眼],Unknown IP
+46,riv3rrrrrr,请问mediapipe怎么在windows上用GPU加速推理呀？,Unknown IP
+47,如虎添翼挖挖,点赞投币了，没有收藏，点赞投币是因为视频很好，没收藏是因为自己编程水平有限，就算收藏也是落灰。,Unknown IP
+48,宇风nice,去我收藏夹里吃灰吧！,Unknown IP
+49,大妞妞攀,子豪兄要多大显存GPU能跑起来姿态估计数据集?,Unknown IP
+50,会黑魔法的青壮年,这.....是我们的竞品啊[喜极而泣]    我们的产品叫做ai快数    话说你这个标注的    线条稳定多了,Unknown IP
